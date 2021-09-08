@@ -1,0 +1,16 @@
+.img{
+    height: 43px;
+} 
+img{
+    max-width: 100%;
+}
+.nav-item{
+    padding: 0px 15px;
+}
+.navbar{
+    background-color: rgb(233, 224, 233);
+}
+.card img{
+    height: 350px;
+    width: auto;
+}
